@@ -1,0 +1,232 @@
+/* Left sidebar-col-sm-6 */
+.budget {
+  width: 1500px;
+  height: 100px;
+  left: 240px;
+  top: 0px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+/* user profile svg and user*/
+.logout {
+  position: absolute;
+  width: 224px;
+  height: 62px;
+  left: 8px;
+  top: 755px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 15px;
+
+  color: #202020;
+}
+/* user number*/
+.callID {
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 13px;
+  /* identical to box height */
+
+  color: #707070;
+}
+/* user logout png and Logout button */
+.signout {
+  padding-top: 10px;
+  padding-left: 10px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+
+  color: #707070;
+}
+.h3 {
+  /* Budget */
+
+  width: 114px;
+  height: 37px;
+  left: 24px;
+  top: 40px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 37px;
+  /* identical to box height */
+
+  color: #202020;
+}
+.h2-heading {
+  /* Dashboard */
+  position: absolute;
+  width: 123px;
+  height: 26px;
+  left: 264px;
+  top: 40px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 26px;
+
+  color: #202020;
+}
+.lead {
+  /* Lorem ipsum dolor sit amet, consectetur adipiscing elit */
+  position: absolute;
+  width: 335px;
+  height: 15px;
+  left: 264px;
+  top: 78px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+
+  color: #707070;
+}
+.view {
+  /* info icon and request bar view option with underline */
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 15px;
+  text-decoration-line: underline;
+
+  color: #202020;
+}
+.container {
+  /* start of colourful 4 boxgroup png and info icon */
+  position: absolute;
+  box-sizing: border-box;
+  float: left;
+  width: 445px;
+  height: 40px;
+  left: 200px;
+  top: 109px;
+
+  border: 1px solid #eaeaea;
+  border-radius: 19.5px;
+}
+.text {
+  /* 32 request textContent */
+  width: 335px;
+  height: 15px;
+  left: 200px;
+  top: 121px;
+  word-spacing: 1px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+
+  color: #202020;
+}
+.heading {
+  /* Recently Active users */
+  width: 202px;
+  height: 22px;
+  left: 265px;
+  top: 338.36px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #202020;
+}
+.thead {
+  /* Table heading */
+  width: 99px;
+  height: 13px;
+  left: 441px;
+  top: 388.36px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 13px;
+  /* identical to box height */
+
+  color: #707070;
+}
+.table {
+  /* table start */
+  width: 1168px;
+  height: 37px;
+  left: 248px;
+  top: 376.36px;
+
+  background: #eff1f3;
+  border-radius: 5px;
+}
+.tableBody {
+  /* tablebody */
+  width: 1168px;
+  height: 64px;
+  left: 248px;
+  top: 477.36px;
+
+  background: white;
+}
+.captions {
+  /* captions under the name and salary */
+  width: 76px;
+  height: 13px;
+  left: 264px;
+  top: 448.36px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 13px;
+  /* identical to box height */
+
+  color: #707070;
+}
+.container-fluid {
+  /* starting div of table */
+  width: 1168px;
+  height: 442px;
+  left: 248px;
+  top: 338.36px;
+}
+.btn.btn-transparent {
+  /* button ViewAll */
+  box-sizing: border-box;
+  position: absolute;
+  width: 98px;
+  height: 39px;
+  left: 720px;
+  top: 575px;
+
+  border: 1px solid #202020;
+  border-radius: 24px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+
+  color: #202020;
+}

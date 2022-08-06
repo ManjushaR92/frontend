@@ -1,0 +1,174 @@
+.page-header {
+  /* Budget */
+
+  position: absolute;
+  width: 114px;
+  height: 37px;
+  left: 64px;
+  top: 48px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 37px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.right-corner {
+  position: absolute;
+  width: 500px;
+  height: 13px;
+  left: 1025px;
+  top: 23px;
+  background-repeat: no-repeat;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 30px;
+
+  /* identical to box height */
+
+  color: #000000;
+}
+.h2 {
+  /* Login to Budget */
+
+  position: absolute;
+  width: 175px;
+  height: 26px;
+  left: 872px;
+  top: 200px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 26px;
+
+  color: #202020;
+}
+.sub {
+  /* Lorem ipsum dolor sit amet, consectetur adipiscing elit */
+
+  position: absolute;
+  width: 335px;
+  height: 15px;
+  left: 872px;
+  top: 238px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+
+  color: #707070;
+}
+
+/* image */
+
+.btn {
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 4px 8px;
+  gap: 6px;
+  float: right;
+
+  width: 80px;
+  height: 27px;
+
+  top: 16px;
+  border: 1px solid #000000;
+  border-radius: 5px;
+}
+
+.container {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 415px;
+  height: 65px;
+  left: 872px;
+  top: 300px;
+}
+
+.form-check-input {
+  /* checkbox */
+  border: 1px solid #b0b0b0;
+  border-radius: 3px;
+}
+.form-floating {
+  /* email and password */
+  font-family: archivo;
+}
+.form-check {
+  /* check box text */
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 13px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.btn.btn-primary {
+  /* login button */
+  box-sizing: border-box;
+  width: 395px;
+  height: 40px;
+  left: 872px;
+  top: 505px;
+  border-color: #005eff;
+  background: #005eff;
+  border-radius: 10px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 17px;
+  padding-left: 200px;
+  color: #ffffff;
+}
+.para {
+  /* Create new Account */
+  padding-top: 10px;
+
+  text-align: center;
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 13px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.show {
+  /* Show object in password dialog box */
+  float: right;
+  width: 31px;
+  height: 13px;
+  left: 1232px;
+  top: 390px;
+
+  font-family: "Archivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 13px;
+  /* identical to box height */
+
+  color: #000000;
+}
