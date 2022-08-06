@@ -1,9 +1,10 @@
-.img{
+.img {
+  /* image in the login page man sitting with phone */
   width: 720px;
-height: 100vh;
-left: 0px;
-top: 0px;
-background-repeat: no-repeat;
+  height: 100vh;
+  left: 0px;
+  top: 0px;
+  background-repeat: no-repeat;
 }
 .page-header {
   /* Budget */
